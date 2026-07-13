@@ -8,9 +8,7 @@
    "id": "73436cbe-5dcd-427b-aabb-187d2c95b93e",
    "metadata": {},
    "source": [
-    "# ¡Hola Guadalupe! <a class=\"tocSkip\"></a>\n",
-    "\n",
-    "Mi nombre es Oscar Flores y tengo el gusto de revisar tu proyecto. Si tienes algún comentario que quieras agregar en tus respuestas te puedes referir a mi como Oscar, no hay problema que me trates de tú.\n",
+
     "\n",
     "Si veo un error en la primera revisión solamente lo señalaré y dejaré que tú encuentres de qué se trata y cómo arreglarlo. Debo prepararte para que te desempeñes como especialista en Data, en un trabajo real, el responsable a cargo tuyo hará lo mismo. Si aún tienes dificultades para resolver esta tarea, te daré indicaciones más precisas en una siguiente iteración.\n",
     "\n",
@@ -49,14 +47,7 @@
    "id": "477834fe-77e9-448c-a76f-0c3744daa5b1",
    "metadata": {},
    "source": [
-    "<div class=\"alert alert-block alert-success\">\n",
-    "<b>Comentario de Revisor    v2      </b> <a class=\"tocSkip\"></a>\n",
-    "\n",
-    "Buen punto el que mencionas, es importante darse el tiempo no solo de realizar el código sino que luego de interpretar si está correcto.\n",
-    "\n",
-    "\n",
-    "\n",
-    "</div>"
+   "</div>"
    ]
   },
   {
@@ -103,11 +94,8 @@
     "<div class=\"alert alert-block alert-success\">\n",
     "<b>Comentario de Revisor  v2 </b> <a class=\"tocSkip\"></a>\n",
     "\n",
-    "¡Buen trabajo Guadalupe! Las últimas correcciones quedaron muy bien. Completaste todas las tareas del notebook de forma correcta, así que no tengo más observaciones que hacer. El proyecto está aprobado. Todo lo que aplicaste aquí será de gran valor en futuros análisis. ¡Mucho éxito en lo que viene!\n",
-    "\n",
-    "Saludos.\n",
-    "\n",
-    "</div>"
+
+ 
    ]
   },
   {
